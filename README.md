@@ -1,8 +1,8 @@
 # Events Management App (API REST)
 
 ## Description
-This project has been developed as a part of the course "Master Laravel" by Piotr Jura.
-It is the backend part of an application that allows the user to login, logout and perform basic crud functions on events and attendees.
+This project has been developed as part of the course "Master Laravel" by Piotr Jura.
+It constitutes the backend portion of an application that enables users to log in, log out and perform basic CRUD (Create, Read, Update, Delete) operations on events and attendees.
 
 ### Implemented features:
 - traits,
